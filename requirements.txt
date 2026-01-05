@@ -1,0 +1,2 @@
+django
+psycopg2-binary  # This is for Postgres (we'll add the DB later)
